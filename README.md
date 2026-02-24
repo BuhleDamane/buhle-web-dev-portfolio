@@ -54,91 +54,67 @@ Through my SheCodes journey, I've worked through these certifications, each one 
 
 I'm currently working through the Python track (Basics, AI, and Advanced) to round out my backend skills even more.
 
-## 💼 Projects & Work
+## 📂 My Projects
 
-These are the web applications I've built. Each one comes from somewhere personal, and each one taught me something I couldn't have learned any other way.
-
----
-
-### Project 1: Personal Blog Platform
-
-**Built with:** JavaScript, HTML5, CSS3, Firebase (Auth, Firestore, Storage)
-
-When I was a child, somewhere between the ages of 13 and 15, I wanted to be a writer. Not the kind who writes for themselves and keeps it in a drawer — I wanted to be published. I would reach out to anyone who called themselves a publisher, sending my work, hoping someone would say yes. It never came to pass. Not once.
-
-But the dream never died. It just sat there, quietly, while I grew up and found other paths — law, data, coding. And then something clicked. I realised I didn't need to wait for permission anymore. I could build the thing myself. The dream to write and publish met the dream to code and build beautiful websites, and out of that came this blog platform.
-
-It's a full-featured platform with dual authentication portals (admin and regular users), email verification, a like system, 5-star ratings that update in real time, an admin dashboard showing views, likes, subscribers, and articles, and PDF uploads for people who want to read offline. Articles can be filtered by category — Law, Politics, Tech, or General — and the newsletter subscription feeds straight into Firestore.
-
-I replaced all the browser alerts with custom modals because the default ones never felt right, not even when I was 15 and dreaming about this. Every time I work on it, I think about that kid sending emails into the void, and I'm glad I finally built him a place to publish.
-
-🔗 **Live Demo:** [glowing-kataifi-71d2c5.netlify.app](https://glowing-kataifi-71d2c5.netlify.app/)  
-📁 **Repository:** [github.com/BuhleDamane/buhledamanemyblogwebsite](https://github.com/BuhleDamane/buhledamanemyblogwebsite)
+This is an umbrella repository that links to all my individual web development projects. Each project below has its own dedicated repository with detailed documentation, setup instructions, and code.
 
 ---
 
-### Project 2: Academic Excellence Hub
+### 📝 Project 1: Personal Blog Platform
 
-**Built with:** JavaScript ES6, Firebase (Auth, Firestore, Storage, Real-time Messaging)
+**Repository:** [github.com/BuhleDamane/buhledamanemyblogwebsite](https://github.com/BuhleDamane/buhledamanemyblogwebsite)  
+**Live Demo:** [glowing-kataifi-71d2c5.netlify.app](https://glowing-kataifi-71d2c5.netlify.app/)  
+**Tech Stack:** JavaScript, HTML5, CSS3, Firebase (Auth, Firestore, Storage)
 
-I started noticing something about postgraduate students — especially the ones doing their Masters and Doctorates through distance learning. They receive little to no support. You're out there on your own, trying to produce work at the highest academic level, and the institution that enrolled you is mostly just... absent.
+**The story:** When I was 13 years old, I wanted to be a writer. I spent years reaching out to publishers, sending my work, hoping someone would say yes. No one ever did. But the dream never died — it just waited. Years later, when I learned to code, I realised I didn't need permission anymore. I could build the platform myself. This blog is that dream realised.
 
-I started wondering: what would it look like if someone built a system specifically for them? A platform that actually caters to their needs, helps with their schoolwork, and offers the kind of support that no one else is offering. That question became this project.
+**Key features:** Dual authentication portals, article management, like system, 5-star ratings, admin dashboard, newsletter, PDF uploads, responsive design.
 
-The platform connects students with professional tutoring services, but it goes beyond just matching people. There are separate portals for admin and clients, each with their own permissions. Students can chat in real time with their tutors, upload and receive documents, track project progress with milestone updates, schedule consultations through an interactive calendar, and process payments. On the admin side, there's a dashboard showing analytics, client activity, and transaction history.
-
-The real-time chat with file attachments was technically the hardest part — making sure messages appear instantly, files upload properly, and everything stays secure. But distance learners deal with enough uncertainty already. The least I could do is make the platform solid.
-
-🔗 **Live Demo:** [dynamic-eclair-0ae219.netlify.app](https://dynamic-eclair-0ae219.netlify.app/)  
-📁 **Repository:** [github.com/BuhleDamane/academicexcellence](https://github.com/BuhleDamane/academicexcellence)
+*[Click the repository link above for setup instructions and full documentation]*
 
 ---
 
-### Project 3: Code Debugging Learning App
+### 🎓 Project 2: Academic Excellence Hub
 
-**Built with:** React, Firebase, AI Integration
+**Repository:** [github.com/BuhleDamane/academicexcellence](https://github.com/BuhleDamane/academicexcellence)  
+**Live Demo:** [dynamic-eclair-0ae219.netlify.app](https://dynamic-eclair-0ae219.netlify.app/)  
+**Tech Stack:** JavaScript ES6, Firebase (Auth, Firestore, Storage, Real-time Messaging)
 
-We use AI for everything now. And that's fine — it's a tool, and tools are meant to be used. But I started noticing something. We don't have games to play anymore. Not the kind that keep you on your toes, that show you where the gaps are, that remind you what you actually know versus what you're asking the AI to do for you.
+**The story:** I noticed that postgraduate students — especially those doing Masters and Doctorates through distance learning — receive little to no support. You're out there on your own, and the institution that enrolled you is mostly absent. I started wondering: what would it look like if someone built a system specifically for them? This platform is my answer.
 
-I built this debugging app to close that gap. Using AI itself.
+**Key features:** Dual portal system, real-time chat, project tracking, document management, payment processing, interactive calendar, admin dashboard.
 
-The idea is simple: users get broken code and have to fix it. Users can choose between JavaScript or React, pick a difficulty level (Soft, Medium, Hard), and see the broken code side by side with their fix. The code challenges are AI-generated, so there's always fresh material. There's a hint system for when you're stuck, instant validation when you think you've fixed it, and a progress tracker showing how you're doing over time.
-
-It's a game, but it's also a mirror. It shows you what happens when AI isn't there to hold your hand. Building this in React made sense because of all the moving pieces — the split-screen editor, real-time validation, user accounts. But the real reason I built it is simpler: I wanted something fun that would also keep me honest about what I actually know.
-
-🔗 **Live App:** [whimsical-pastelito-4f7960.netlify.app](https://whimsical-pastelito-4f7960.netlify.app/)  
-📁 **Repository:** [github.com/BuhleDamane/debugging-learning-app](https://github.com/BuhleDamane/debugging-learning-app)
+*[Click the repository link above for setup instructions and full documentation]*
 
 ---
 
-### Project 4: Financial Literacy & Portfolio Tracker
+### 🐛 Project 3: Debug Master — Code Debugging Learning App
 
-**Built with:** React, Firebase, Data Visualization
+**Repository:** [github.com/BuhleDamane/debugging-learning-app](https://github.com/BuhleDamane/debugging-learning-app)  
+**Live Demo:** [whimsical-pastelito-4f7960.netlify.app](https://whimsical-pastelito-4f7960.netlify.app/)  
+**Tech Stack:** React, Firebase, AI Integration
 
-Here's what I noticed: most people don't know much about investments and savings. And when they do finally decide to do something about it, the tools are scattered everywhere. You budget in one app, track investments in another, calculate tax somewhere else, and learn financial concepts from YouTube videos that may or may not be reliable. It's discouraging. It sets you off before you even really start.
+**The story:** We use AI for everything now. But I noticed we don't have games anymore that keep us on our toes, that show us where the gaps are, that remind us what we actually know versus what we're asking AI to do. I built this debugging app to close that gap — using AI itself.
 
-I wanted to build something different. An all-in-one system where you can budget, record and track your investments, calculate your tax, and actually learn about financial information — all in one place.
+**Key features:** User accounts, language selection (JavaScript/React), three difficulty levels, AI-generated challenges, split-screen editor, instant validation, hint system, progress tracking.
 
-The platform has interactive modules and quizzes covering budgeting, saving, and investing basics. On the practical side, users can track income and expenses, set savings goals with visual progress bars, monitor investment portfolios with performance metrics, and create monthly budgets that actually analyse where money is going. The tax calculator is still being refined, but the idea is to make it specific enough to be useful, simple enough to actually use.
-
-The data visualisation part was a challenge — turning rows of numbers into charts that actually mean something. But that's the whole point: making financial information accessible instead of intimidating. Everything syncs in real time, and data is encrypted because financial information is sensitive and people need to trust that it's safe.
-
-🔗 **Live Demo:** [gregarious-sopapillas-88dcb9.netlify.app](https://gregarious-sopapillas-88dcb9.netlify.app/)  
-📁 **Repository:** [github.com/BuhleDamane/financial-tracker-app-website](https://github.com/BuhleDamane/financial-tracker-app-website)
+*[Click the repository link above for setup instructions and full documentation]*
 
 ---
 
-## What I've Learned Building These
+### 💰 Project 4: Financial Literacy & Portfolio Tracker
 
-Looking back at all four projects, a few things stand out:
+**Repository:** [github.com/BuhleDamane/financial-tracker-app-website](https://github.com/BuhleDamane/financial-tracker-app-website)  
+**Live Demo:** [gregarious-sopapillas-88dcb9.netlify.app](https://gregarious-sopapillas-88dcb9.netlify.app/)  
+**Tech Stack:** React, Firebase, Data Visualization
 
-**Security is non-negotiable.** Every project uses Firebase Authentication with email verification, and I've learned to think carefully about who can access what. The dual portals in the blog and academic hub taught me to map out user permissions before writing a single line of code.
+**The story:** Most people don't know much about investments and savings. And when they do finally decide to do something about it, the tools are scattered everywhere — budget in one app, investments in another, tax somewhere else. I wanted to build an all-in-one system where you can do it all in one place.
 
-**Real-time features change everything.** Once users see updates happening instantly — a like counter going up, a chat message appearing — there's no going back to static pages. But real-time also means thinking about loading states, error handling, and what happens when the connection drops.
+**Key features:** Financial education modules, income/expense tracking, savings goals, investment portfolio tracking, budget planner, tax calculator, data visualization, encrypted storage.
 
-**The best ideas come from your own life.** Every project here started with something I noticed, something I needed, something I wished existed. That's not a coincidence.
+*[Click the repository link above for setup instructions and full documentation]*
 
-**Clean code matters months later.** Coming back to projects after a few weeks to fix something or add a feature, I've learned to appreciate well-named variables, clear comments, and consistent structure. Future me is always grateful when present me does things properly.
+---
 
 ## 🌍 Open to Opportunities
 
@@ -155,4 +131,4 @@ I'm looking for roles in web development, frontend development, full-stack devel
 
 ---
 
-*This README is part of my portfolio. The data analytics version is over there 👉, and the legal writing one is in progress. Each project here is live and the code is open source — feel free to look around, borrow ideas, or reach out if something interests you. Most of them started with a question or a frustration, and I'd love to hear what questions you're asking.*
+*This is an umbrella repository. Click any project link above to view its source code, setup instructions, and detailed documentation. Each project is live and open source — feel free to explore, borrow ideas, or reach out if something interests you.*
