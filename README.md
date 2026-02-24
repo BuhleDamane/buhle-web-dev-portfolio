@@ -4,11 +4,11 @@
 
 ## About Me
 
-I'm based in South Africa, and my path into web development started in 2023 when I joined the SheCodes Bootcamp. At the time I was already studying law and working through a data analytics programme, and I honestly wasn't sure how coding would fit into everything. But it turned out to be the thing that tied it all together — being able to actually build something from scratch, whether it's a blog platform or a learning tool, has been incredibly fulfilling.
+I'm based in South Africa, and my path into web development started in 2023 when I joined the SheCodes Bootcamp. At the time I was already studying law and working through a data analytics programme, and I honestly wasn't sure how coding would fit into everything. But it turned out to be the thing that tied it all together, being able to actually build something from scratch, whether it's a blog platform or a learning tool, has been incredibly fulfilling.
 
 I have an LLB from the University of Venda, I'm working towards my Master's in Human Rights Law at UNISA, I completed a Data Analytics programme with ALX, and alongside all of that I've been steadily working through the SheCodes curriculum. It's been a lot, but each piece feeds into the others in ways I didn't expect when I started.
 
-The thing about web development that keeps me going is that you're always solving real problems. When I built the Academic Excellence Hub, I was thinking about students who need proper support. When I built the debugging learning app, I was thinking about how I learned to code and what would have helped me. That's what I like about it — you're not just writing code, you're building things people actually use.
+The thing about web development that keeps me going is that you're always solving real problems. When I built the Academic Excellence Hub, I was thinking about students who need proper support. When I built the debugging learning app, I was thinking about how I learned to code and what would have helped me. That's what I like about it, you're not just writing code, you're building things people actually use.
 
 ## 🎓 Education & Training
 
@@ -66,7 +66,7 @@ This is an umbrella repository that links to all my individual web development p
 **Live Demo:** [glowing-kataifi-71d2c5.netlify.app](https://glowing-kataifi-71d2c5.netlify.app/)  
 **Tech Stack:** JavaScript, HTML5, CSS3, Firebase (Auth, Firestore, Storage)
 
-**The story:** When I was 13 years old, I wanted to be a writer. I spent years reaching out to publishers, sending my work, hoping someone would say yes. No one ever did. But the dream never died — it just waited. Years later, when I learned to code, I realised I didn't need permission anymore. I could build the platform myself. This blog is that dream realised.
+**The story:** When I was 13 years old, I wanted to be a writer. I spent years reaching out to publishers, sending my work, hoping someone would say yes. No one ever did. But the dream never died, it just waited. Years later, when I learned to code, I realised I didn't need permission anymore. I could build the platform myself. This blog is that dream realised.
 
 **Key features:** Dual authentication portals, article management, like system, 5-star ratings, admin dashboard, newsletter, PDF uploads, responsive design.
 
@@ -80,7 +80,7 @@ This is an umbrella repository that links to all my individual web development p
 **Live Demo:** [dynamic-eclair-0ae219.netlify.app](https://dynamic-eclair-0ae219.netlify.app/)  
 **Tech Stack:** JavaScript ES6, Firebase (Auth, Firestore, Storage, Real-time Messaging)
 
-**The story:** I noticed that postgraduate students — especially those doing Masters and Doctorates through distance learning — receive little to no support. You're out there on your own, and the institution that enrolled you is mostly absent. I started wondering: what would it look like if someone built a system specifically for them? This platform is my answer.
+**The story:** I noticed that postgraduate students, especially those doing Masters and Doctorates through distance learning, receive little to no support. You're out there on your own, and the institution that enrolled you is mostly absent. I started wondering: what would it look like if someone built a system specifically for them? This platform is my answer.
 
 **Key features:** Dual portal system, real-time chat, project tracking, document management, payment processing, interactive calendar, admin dashboard.
 
@@ -94,7 +94,7 @@ This is an umbrella repository that links to all my individual web development p
 **Live Demo:** [whimsical-pastelito-4f7960.netlify.app](https://whimsical-pastelito-4f7960.netlify.app/)  
 **Tech Stack:** React, Firebase, AI Integration
 
-**The story:** We use AI for everything now. But I noticed we don't have games anymore that keep us on our toes, that show us where the gaps are, that remind us what we actually know versus what we're asking AI to do. I built this debugging app to close that gap — using AI itself.
+**The story:** We use AI for everything now. But I noticed we don't have games anymore that keep us on our toes, that show us where the gaps are, that remind us what we actually know versus what we're asking AI to do. I built this debugging app to close that gap, using AI itself.
 
 **Key features:** User accounts, language selection (JavaScript/React), three difficulty levels, AI-generated challenges, split-screen editor, instant validation, hint system, progress tracking.
 
@@ -108,7 +108,7 @@ This is an umbrella repository that links to all my individual web development p
 **Live Demo:** [gregarious-sopapillas-88dcb9.netlify.app](https://gregarious-sopapillas-88dcb9.netlify.app/)  
 **Tech Stack:** React, Firebase, Data Visualization
 
-**The story:** Most people don't know much about investments and savings. And when they do finally decide to do something about it, the tools are scattered everywhere — budget in one app, investments in another, tax somewhere else. I wanted to build an all-in-one system where you can do it all in one place.
+**The story:** Most people don't know much about investments and savings. And when they do finally decide to do something about it, the tools are scattered everywhere, budget in one app, investments in another, tax somewhere else. I wanted to build an all-in-one system where you can do it all in one place.
 
 **Key features:** Financial education modules, income/expense tracking, savings goals, investment portfolio tracking, budget planner, tax calculator, data visualization, encrypted storage.
 
